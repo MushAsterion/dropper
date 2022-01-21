@@ -1,0 +1,10 @@
+{
+    "name": "dropper",
+    "version": "1.0.0",
+    "description": "A drop system.",
+    "main": "./lib/Dropper.js",
+    "author": "Lucas Petitjean",
+    "engines": {
+        "node": ">=6.0.0"
+    }
+}
